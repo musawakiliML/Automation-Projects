@@ -1,2 +1,2 @@
-# Olukowe-v2
-Olukowe V2 AI Product Backend and APIs
+# Automation Projects
+This is a collection of automation projects i build in python and i expose them as API endpoints using FastAPI.
