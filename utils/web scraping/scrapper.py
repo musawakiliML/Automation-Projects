@@ -1,6 +1,5 @@
 import requests
 
-
 try:
    r = requests.get("http://ip.jsontest.com/")
    print("response object", r)
